@@ -13,4 +13,9 @@ public class Calculator {
 	int sottrazione(int x, int y) {
 		return x-y;
 	}
+	
+	int moltiplicazione(int x, int y)
+	{
+		return x*y;
+	}
 }
