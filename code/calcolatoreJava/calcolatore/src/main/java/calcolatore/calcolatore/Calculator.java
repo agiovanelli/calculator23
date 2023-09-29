@@ -10,4 +10,7 @@ public class Calculator {
 		return x + y;
 	}
 	
+	int sottrazione(int x, int y) {
+		return x-y;
+	}
 }
