@@ -7,7 +7,9 @@ public class main {
         
         System.out.println("5 + 6 = " + c1.addizione(5, 6));
         
-        system.out.println("5 * 6 = "+ c1.moltiplicazione(5,6))
+        system.out.println("5 * 6 = "+ c1.moltiplicazione(5,6));
+        
+        system.out.println("5-6 = "+c1.sottrazione(5,6));
 
 	}
 
